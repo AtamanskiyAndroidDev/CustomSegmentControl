@@ -33,6 +33,6 @@ segmentControl.selectedIndex = 0;
 
 ![alt tag](https://s29.postimg.org/3xiwshfyf/2017_03_09_11_48_20.png)
 
-##Result:##
+##Result##
 
 ![alt tag](http://i.giphy.com/3oKIPgmkgHPazgmifC.gif)
