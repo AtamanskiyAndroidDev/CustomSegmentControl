@@ -1,17 +1,17 @@
 # CustomSegmentedControl
 
-A customized segmented control on Objective-c
+A customized segmented control on Objective-C.
 
 ##Requirements##
 
-Xcode 6 or later
+Xcode 6 or later.
 
-##Manual Install:##
+##Manual Install##
 
 All you need to do is drop Source folder into your project and include headers.
 
 ##Configure SegmentedControl in code##
-```
+```Objective-C
 NSArray *arr = [NSArray arrayWithObjects: @"Trending", @"Random", @"Search", nil];
 segmentControl = [[GIFSegmentedControl alloc] initWithFrame:CGRectMake(0, 0, 250, 30)];
 segmentControl.items = arr;
